@@ -211,4 +211,3 @@ Build a max heap, repeatedly remove the root (max), place at the end.
 
 ---
 
-🎁 *Feel free to copy this into your README.md directly!*
